@@ -91,7 +91,7 @@ Este estudo analisou uma amostra específica de 1.200 indivíduos, e seus result
 ## Aprendizados  
 Neste projeto, pude aplicar na prática o método ETL, desde a extração e transformação dos dados no Power Query até o carregamento eficiente no Power BI. Através da linguagem DAX, desenvolvi habilidades essenciais na criação de colunas calculadas e medidas personalizadas, com destaque para o domínio da função `CALCULATE` - compreendi sua versatilidade para análises contextuais avançadas e como ela amplia significativamente as possibilidades de investigação dos dados, permitindo comparações segmentadas e filtros dinâmicos que enriqueceram minha análise de indicadores de saúde mental.
 
-[Link Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzA3NWY1OTgtNDQ1MC00ZGNlLTlkM2QtNzgwMDllZGQwNGZmIiwidCI6Ijc0NDY5NmNmLTYxMzYtNDYzOS04MTExLWY3NTUwN2I5ZmY2ZCJ9)
+[Link Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA3NWY1OTgtNDQ1MC00ZGNlLTlkM2QtNzgwMDllZGQwNGZmIiwidCI6Ijc0NDY5NmNmLTYxMzYtNDYzOS04MTExLWY3NTUwN2I5ZmY2ZCJ9)
 
 
 <iframe title="mental_health_study" width="600" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiNzA3NWY1OTgtNDQ1MC00ZGNlLTlkM2QtNzgwMDllZGQwNGZmIiwidCI6Ijc0NDY5NmNmLTYxMzYtNDYzOS04MTExLWY3NTUwN2I5ZmY2ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
