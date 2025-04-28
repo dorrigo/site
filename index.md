@@ -4,9 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./analise-saude-mental.html).
+#[Análise de Determinantes de Saúde Mental](./analise-saude-mental.html).
 
-There should be whitespace between paragraphs.
+Como fatores sociais e histórico familiar impactam mais a saúde mental do que sono e exercícios? Confira este case study onde analisei dados de 1.200 indivíduos usando Power BI, revelando insights surpreendentes sobre depressão e ansiedade.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
