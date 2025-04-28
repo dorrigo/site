@@ -6,11 +6,9 @@ layout: default
 
 Como fatores sociais e histórico familiar impactam mais a saúde mental do que sono e exercícios? Confira este case study onde analisei dados de 1.200 indivíduos usando Power BI, revelando insights surpreendentes sobre depressão e ansiedade.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## [Case: Solução Baseada em Dados para Quebra de Estoque em E-commerce](./case-quebra-estoque)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Descubra como uma solução de dados reduziu as quebras de estoque em um e-commerce! Neste case, utilizei Google Analytics 4 e Tag Manager para criar um sistema de alertas que monitorava produtos esgotados em tempo real, integrado a um dashboard automatizado no Looker Studio.
 
 ## Header 2
 
