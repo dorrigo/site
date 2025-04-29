@@ -40,11 +40,11 @@ A empresa modificou nomes e URLs dos produtos de uma categoria inteira do e-comm
 
 ## Resultados  
 ## Resultados  
-| Canal       | Situação Inicial | Após 60 Dias | Crescimento |  
-|-------------|------------------|--------------|-------------|  
-| **Direct**  | -50%             | +8%          | **+58%**    |  
-| **Orgânico**| -33%             | +15%         | **+48%**    |  
-| **Mídia Paga**| -22%           | +20%         | **+42%**    | 
+| Canal         | Situação Inicial | Após 60 Dias | Crescimento |  
+|---------------|------------------|--------------|-------------|  
+| **Direct**    | -50%             | +8%          | **+58%**    |  
+| **Orgânico**  | -33%             | +15%         | **+48%**    |  
+| **Mídia Paga**| -22%             | +20%         | **+42%**    | 
 
 ## Aprendizados  
 1. **Definição prévia de KPIs** é essencial para decisões ágeis baseadas em dados  
