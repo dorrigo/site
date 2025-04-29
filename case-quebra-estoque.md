@@ -17,7 +17,7 @@ Utilizando o Google Analytics 4 (GA4), analisei:
 
 ## Descoberta
 - Alguns produtos mantinham alta visualização, mas a taxa de adição ao carrinho caía abruptamente
-- Ao inspecionar as páginas, identifiquei que os produtos estavam com estoque esgotado - e a reposição levava dias, ssa falha não era comunicada prontamente, gerando perda de receita.
+- Ao inspecionar as páginas, identifiquei que os produtos estavam com estoque esgotado - e a reposição levava dias, ssa falha não era comunicada prontamente, gerando perda de receita
 
 ## Solução (Baseada em Dados)
 Para criar um sistema de alerta rápido, implementei:
