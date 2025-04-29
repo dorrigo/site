@@ -11,8 +11,9 @@ A empresa modificou nomes e URLs dos produtos de uma categoria inteira do e-comm
 ## Análise de Dados
 **Período comparativo**: 30 dias antes vs. após a mudança  
 
-1. **Extração e tratamento**:  
-   - Dados dos canais de aquisição via Google Analytics 4 (GA4)  
+1. **Tratamento dos Dados**:  
+   - Extração dos dados dos canais de aquisição via Google Analytics 4 (GA4)
+   - Extração dos dados dos produtos afetados antes e depois da mudança
    - Tratamento e Visualização dos dados no Power BI  
 
 **Resultados da análise**:  
