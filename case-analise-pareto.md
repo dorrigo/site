@@ -56,13 +56,13 @@ A empresa modificou nomes e URLs dos produtos de uma categoria inteira do e-comm
 #### Prints do Dashboard Power BI e Dados GA4
 <small> Dados sensíveis censurados <small>
 
-![Print Power BI](/assets/images/table-receita-canal.jpg){:width="70%"}
+![Print Power BI](/assets/images/table-receita-canal.jpg){:width="80%"}
 
 
-![Print Power BI](/assets/images/table-receita-produto.jpg){:width="70%"}
+![Print Power BI](/assets/images/table-receita-produto.jpg){:width="80%"}
 
 
-![Print GA4](/assets/images/dados-ga4-pareto.jpg){:width="70%"}
+![Print GA4](/assets/images/dados-ga4-pareto.jpg){:width="80%"}
 
 
 [Home](./)
