@@ -6,5 +6,4 @@ theme: jekyll-theme-slate
 
 # Mantém o footer, mas remove do header
 github:
-  is_project_page: true
-  show_header_link: false
+  is_project_page: false
