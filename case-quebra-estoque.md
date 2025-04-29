@@ -48,5 +48,6 @@ Automação: Relatório enviado toda segunda-feira para a equipe de logística
 1. Saber identificar, rastrear, utilizar e mensurar **dados comportamentais do usuário** são tão importantes quanto métricas de vendas
 2. Construir **dashboards acessíveis** para dar suporte eficaz às equipes responsáveis
 
+### Print do Dash no Looker Studio
 
 ![Print Looker Studio](/assets/images/looker-quebra-estoque.jpg)
