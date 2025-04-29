@@ -1,4 +1,4 @@
-#Análise de Pareto Aplicada a Dados de E-commerce
+# Análise de Pareto Aplicada a Dados de E-commerce
 
 ## Desafio
 A empresa modificou nomes e URLs dos produtos de uma categoria inteira do e-commerce para melhorar o posicionamento orgânico no Google. Porém, a equipe não previu o impacto nos canais de aquisição:
