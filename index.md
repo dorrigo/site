@@ -4,16 +4,25 @@ layout: default
 
 ## [Análise de Determinantes de Saúde Mental](./analise-saude-mental.html)
 
-Como fatores sociais e histórico familiar impactam mais a saúde mental do que sono e exercícios? Confira este case study onde analisei dados de 1.200 indivíduos usando Power BI, revelando insights surpreendentes sobre depressão e ansiedade.
-
-
+> Como fatores sociais e histórico familiar impactam mais a saúde mental do que sono e exercícios? Confira este case study onde analisei dados de 1.200 indivíduos usando Power BI, revelando insights surpreendentes sobre depressão e ansiedade.
+>
+>
 
 
 ## [Case: Solução Baseada em Dados para Quebra de Estoque em E-commerce](./case-quebra-estoque)
 
-Descubra como uma solução de dados reduziu as quebras de estoque em um e-commerce! Neste case, utilizei Google Analytics 4 e Tag Manager para criar um sistema de alertas que monitorava produtos esgotados em tempo real, integrado a um dashboard automatizado no Looker Studio.
+> Descubra como uma solução de dados reduziu as quebras de estoque em um e-commerce! Neste case, utilizei Google Analytics 4 e Tag Manager para criar um sistema de alertas que monitorava produtos esgotados em tempo real, integrado a um dashboard automatizado no Looker Studio.
+>
+>
 
-## Header 2
+ 
+## [Case: Análise de Pareto Aplicada a Dados de E-commerce](./case-analise-pareto)
+
+> Migração de URLs em e-commerce pode gerar impactos ocultos nos canais de aquisição. Neste case, combinei GA4 e análise de Pareto no Power BI para criar um plano de ação que revertesse as perdas sem comprometer as melhorias de SEO
+>
+>
+
+
 
 > This is a blockquote following a header.
 >
