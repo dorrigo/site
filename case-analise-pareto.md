@@ -51,3 +51,6 @@ A empresa modificou nomes e URLs dos produtos de uma categoria inteira do e-comm
 2. **Priorização da Curva A** (20% dos produtos) otimizou a estratégia  
 3. **Segmentação de problemas complexos** acelera a solução e aumenta eficácia  
 
+
+[Home](./)
+
