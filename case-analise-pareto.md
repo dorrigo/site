@@ -53,5 +53,13 @@ A empresa modificou nomes e URLs dos produtos de uma categoria inteira do e-comm
 3. **Segmentação de problemas complexos** acelera a solução e aumenta eficácia  
 
 
+#### Prints do Dashboard Power BI e Dados GA4
+
+![Print Power BI](/assets/images/table-receita-canal.jpg)
+
+![Print Power BI](/assets/images/table-receita-produto.jpg)
+
+![Print Power BI](/assets/images/ga4-pareto.jpg)
+
 [Home](./)
 
