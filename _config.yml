@@ -3,5 +3,8 @@ description: Projetos e Cases
 show_downloads: false
 google_analytics: G-JRLBM576BT
 theme: jekyll-theme-slate
-github: 
-  is_project_page: false
+
+# Mantém o footer, mas remove do header
+github:
+  is_project_page: true
+  show_header_link: false
