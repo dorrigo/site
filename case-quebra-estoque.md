@@ -1,7 +1,7 @@
 # Case: Solução Baseada em Dados para Quebra de Estoque em E-commerce
 
 ## Desafio
-O cliente enfrentava quedas inesperadas de receita em semanas específicas, sem padrão aparente, impactando negativamente a lucratividade mensal e o desempenho das campanhas de produtos estratégicos. Era crítico identificar a raiz do problema para corrigi-lo rapidamente. Era crítico identificar a raiz do problema para corrigi-lo rapidamente.
+O cliente enfrentava quedas inesperadas de receita em semanas específicas, sem padrão aparente, impactando negativamente a lucratividade mensal e o desempenho das campanhas de produtos estratégicos. Era crítico identificar a raiz do problema para corrigi-lo rapidamente.
 
 ## Análise de Dados
 Utilizando o Google Analytics 4 (GA4), analisei:
