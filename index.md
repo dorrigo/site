@@ -1,6 +1,10 @@
 ---
 layout: default
+title: "Portfólio Rodrigo Pereira"
+description: "Projetos e Cases"
 ---
+
+
 
 ### [Análise de Determinantes de Saúde Mental](./analise-saude-mental.html)
 
