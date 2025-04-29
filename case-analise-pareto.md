@@ -65,5 +65,5 @@ A empresa modificou nomes e URLs dos produtos de uma categoria inteira do e-comm
 ![Print GA4](/assets/images/dados-ga4-pareto.jpg){:width="80%"}
 
 
-[Home](./)
+<!--[Home](./)-->
 
