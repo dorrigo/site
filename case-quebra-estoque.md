@@ -51,6 +51,7 @@ Automação: Relatório enviado toda segunda-feira para a equipe de logística
 #### Print do Dashboard no Looker Studio
 
 ![Print Looker Studio](/assets/images/looker-quebra-estoque.jpg)
+<small> Dados sensíveis censurados <small>
 
 
 [Home](./)
