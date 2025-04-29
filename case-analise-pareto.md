@@ -59,7 +59,7 @@ A empresa modificou nomes e URLs dos produtos de uma categoria inteira do e-comm
 
 ![Print Power BI](/assets/images/table-receita-produto.jpg)
 
-![Print Power BI](/assets/images/ga4-pareto.jpg)
+![Print GA4](/assets/images/dados-ga4-pareto.jpg)
 
 [Home](./)
 
