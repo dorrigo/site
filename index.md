@@ -26,6 +26,8 @@ description: "Projetos e Cases"
 >
 >
 
+### [Guia: Como Criar um Github Page](./guia-gitpage)
 
+> Um guia com intuito de te ajudar a criar seu site utilizando o Github Pages, espero que goste e consiga publicar o seu site! 
 
 
