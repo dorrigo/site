@@ -54,4 +54,4 @@ Automação: Relatório enviado toda segunda-feira para a equipe de logística
 <small> Dados sensíveis censurados <small>
 
 
-<!--[Home](./)-->
+[Home](./)
