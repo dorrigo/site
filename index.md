@@ -22,7 +22,7 @@ description: "Projetos e Cases"
  
 ### [Case: Análise de Pareto Aplicada a Dados de E-commerce](./case-analise-pareto)
 
-> Migração de URLs em e-commerce podem gerar impactos ocultos nos canais de aquisição. Neste case, combinei GA4 e análise de Pareto no Power BI para criar um plano de ação que revertesse as perdas sem comprometer as melhorias de SEO
+> Migração de URLs em e-commerce podem gerar impactos ocultos nos canais de aquisição. Neste case, combinei GA4 e análise de Pareto no Power BI para criar um plano de ação que revertesse as perdas sem comprometer as melhorias de SEO.
 >
 >
 
