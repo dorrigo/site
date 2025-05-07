@@ -5,6 +5,8 @@ layout: default
 # Análise de Determinantes de Saúde Mental  
 **Base de Dados**: Anxiety and Depression - Mental Health Factors
 
+**Sobre o Dataset**: Este conjunto de dados abrange fatores associados à ansiedade, depressão e saúde mental. Ele contém informações demográficas, estilo de vida, métricas de saúde mental, registros médicos, estratégias de enfrentamento e fontes de estresse. O conjunto foi desenvolvido para análises em saúde mental, modelagem preditiva e estudos sobre a influência de diferentes variáveis no bem-estar psicológico.
+
 ## Objetivo  
 Identificar os fatores que mais impactam casos graves de depressão e ansiedade em uma amostra específica com 1.200 indivíduos.  
 
