@@ -6,6 +6,12 @@ description: "Projetos e Cases"
 
 ### [Análise de Comportamento do Consumidor: Insights Baseados em Dados com SQL](./analise-comportamento-consumidor-sql)
 
+> Descubra padrões ocultos no comportamento do consumidor com esta análise SQL completa! Explorei dados reais para revelar tendências de compra, segmentação de clientes e insights acionáveis. O projeto inclui desde consultas básicas até análises avançadas, mostrando como transformar dados brutos em estratégias concretas.
+>
+>
+
+
+
 ### [Análise de Determinantes de Saúde Mental](./analise-saude-mental.html)
 
 > Como fatores sociais e histórico familiar impactam mais a saúde mental do que sono e exercícios? Confira este case study onde analisei dados de 1.200 indivíduos usando Power BI, revelando insights surpreendentes sobre depressão e ansiedade.
