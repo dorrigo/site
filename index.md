@@ -4,7 +4,7 @@ title: "Portfólio Rodrigo Pereira"
 description: "Projetos e Cases"
 ---
 
-
+### [Análise de Comportamento do Consumidor: Insights Baseados em Dados com SQL](./analise-comportamento-consumidor-sql)
 
 ### [Análise de Determinantes de Saúde Mental](./analise-saude-mental.html)
 
