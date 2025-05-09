@@ -24,6 +24,8 @@ Ideal para quem quer entender o consumidor na prática.
 
 **Separei todas as querys no repositório, onde você pode visualizar separadamente cada uma. Além disso trouxe abaixo o que cada query retornou como output, de acordo com o questionamento realizado em cima do dataset e a análise dos dados retornados.**
 
+**Para ver todo o repositório completo no Github, acesse [Análise de Comportamento do Consumidor: Insights Baseados em Dados com SQL](https://github.com/dorrigo/comportamento-consumidor-sql/blob/main/README.md)**
+
 
 ## Query_1
 
