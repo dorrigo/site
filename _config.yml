@@ -1,5 +1,6 @@
 title: "Portfólio Rodrigo Pereira"
 description: "Projetos e Cases"
 show_downloads: false
+show_github_link: false
 google_analytics: G-JRLBM576BT
 theme: jekyll-theme-slate
