@@ -1,4 +1,4 @@
-#Por que o BigQuery é mais completo para Análise de Dados do GA4 (Mesmo em Projetos de Exemplo)#
+# Por que o BigQuery é mais completo para Análise de Dados do GA4 (Mesmo em Projetos de Exemplo) #
 
 Utilizando o dataset público ga4_obfuscated_sample_ecommerce, explorei funcionalidades do BigQuery que superam radicalmente as limitações da integração nativa do GA4. Veja os principais insights:
 
@@ -73,7 +73,7 @@ Vantagem Big Query: Mais liberdade para trabalhar os dados, com a integração d
 
 
 
-<iframe width="600" height="443" src="https://lookerstudio.google.com/embed/reporting/483c125f-1afd-48a4-8828-13bb487be03c/page/Hi3KF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+<iframe width="800" height="591" src="https://lookerstudio.google.com/embed/reporting/483c125f-1afd-48a4-8828-13bb487be03c/page/Hi3KF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 
 
