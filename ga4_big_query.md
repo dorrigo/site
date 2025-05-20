@@ -37,6 +37,7 @@ WHERE
 ORDER BY receita_total desc
 LIMIT 10;
 ```
+
 Vantagem Big Query: Dados de produtos (armazenados como arrays como no caso dos itens) são acessados sem JOINs complexos.
 
 ## 4. Criação de Métricas Personalizadas ##
@@ -65,6 +66,7 @@ GROUP BY 1, 2
 ORDER BY 3 DESC
 LIMIT 10;
 ```
+
 Vantagem Big Query: Mais liberdade para trabalhar os dados, com a integração direta com o GA4 as análises e possibilidades ficam limitadas como na integração nativa do GA4 no Looker Studio.
 
 ## 5. Processamento Antecipado para Carregamento mais Rápido ##
@@ -115,7 +117,8 @@ ORDER BY
   net_revenue DESC
 LIMIT 50
 ```
-- Vantagem Big Query: Dashboards carregam mais rápido do que consultas diretas ao GA4, o dashboard fica mais leve!
+
+Vantagem Big Query: Dashboards carregam mais rápido do que consultas diretas ao GA4, o dashboard fica mais leve!
 
 ## 6. Combinação com Dados Externos
 
@@ -145,7 +148,7 @@ A conexão direta GA4-Looker Studio ainda é útil para:
 - Para usuários sem conhecimentos de SQL
 
 
-
+Ao final deste projeto realizei a integração com o Big Query no Looker Studio e criei a visualização dos dados atráves do Dashboard abaixo:
 
 ### Dashboard Looker Studio feito com a Integração Big Query ###
 
