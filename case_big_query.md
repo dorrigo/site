@@ -37,9 +37,10 @@ WHERE
 ORDER BY receita_total desc
 LIMIT 10;
 ```
-Vantagem: Dados de produtos (armazenados como arrays como no caso dos itens) são acessados sem JOINs complexos.
+Vantagem Big Query: Dados de produtos (armazenados como arrays como no caso dos itens) são acessados sem JOINs complexos.
 
 ## 4. Criação de Métricas Personalizadas ##
+Exemplo: Produtos Frequentemente Comprados Juntos
 
 ```sql
 WITH compras AS (
@@ -64,10 +65,15 @@ GROUP BY 1, 2
 ORDER BY 3 DESC
 LIMIT 10;
 ```
+Vantagem Big Query: Mais liberdade para trabalhar os dados, com a integração direta com o GA4 as análises e possibilidades ficam limitadas como na integração nativa do GA4 no Looker Studio.
+
+## 5. Combinação com Dados Externos
+
+- É possível adicionar outros bancos de dados no Big Query e relacionar com seus dados do GA4, então podemos relacionar tabelas do GA4 com CRM, Resultados de Campanhas, ERP entre outros bancos.
 
 
 
-
+<iframe width="600" height="443" src="https://lookerstudio.google.com/embed/reporting/483c125f-1afd-48a4-8828-13bb487be03c/page/Hi3KF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 
 
