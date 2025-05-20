@@ -122,7 +122,7 @@ Vantagem Big Query: Dashboards carregam mais rápido do que consultas diretas ao
 
 ## 6. Combinação com Dados Externos
 
-- É possível adicionar outros bancos de dados no Big Query e relacionar com seus dados do GA4 através dos JOINs, então podemos relacionar tabelas do GA4 com CRM, Resultados de Campanhas, ERP entre outros bancos.
+É possível adicionar outros bancos de dados no Big Query e relacionar com seus dados do GA4 através dos JOINs, então podemos relacionar tabelas do GA4 com CRM, Resultados de Campanhas, ERP entre outros bancos.
 
 ## 7. Uso de Machine Learning com SQL direto no Big Query ##
 
