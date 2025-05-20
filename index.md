@@ -4,7 +4,7 @@ title: "Portfólio Rodrigo Pereira"
 description: "Projetos e Cases"
 ---
 
-### [Por que o BigQuery é mais completo para Análise de Dados do GA4](./ga4_big_query)
+### [BigQuery vs GA4 Nativo: Quando a integração direta não basta para sua Análise de Dados](./ga4_big_query)
 
 > Utilizando o dataset público ga4_obfuscated_sample_ecommerce, explorei funcionalidades do BigQuery que superam as limitações da integração nativa do GA4 no Looker Studio. Veja os principais insights!
 >
