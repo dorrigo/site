@@ -1,4 +1,4 @@
-# Por que o BigQuery é mais completo para Análise de Dados do GA4
+# BigQuery vs GA4 Nativo: Quando a integração direta não basta para sua Análise de Dados
 
 Utilizando o dataset público **ga4_obfuscated_sample_ecommerce**, explorei funcionalidades do BigQuery que superam as limitações da integração nativa do GA4 no Looker Studio. Veja os principais insights:
 
