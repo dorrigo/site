@@ -38,7 +38,7 @@ ORDER BY receita_total desc
 LIMIT 10;
 ```
 
-Vantagem Big Query: Dados de produtos (armazenados como arrays como no caso dos itens) são acessados sem JOINs complexos.
+Vantagem BigQuery: Dados de produtos (armazenados como arrays como no caso dos itens) são acessados sem JOINs complexos.
 
 ## 4. Criação de Métricas Personalizadas ##
 Exemplo: Produtos Frequentemente Comprados Juntos
@@ -67,7 +67,7 @@ ORDER BY 3 DESC
 LIMIT 10;
 ```
 
-Vantagem Big Query: Mais liberdade para trabalhar os dados, com a integração direta com o GA4 as análises e possibilidades ficam limitadas como na integração nativa do GA4 no Looker Studio.
+Vantagem BigQuery: Mais liberdade para trabalhar os dados, com a integração direta com o GA4 as análises e possibilidades ficam limitadas como na integração nativa do GA4 no Looker Studio.
 
 ## 5. Processamento Antecipado para Carregamento mais Rápido ##
 
@@ -118,13 +118,13 @@ ORDER BY
 LIMIT 50
 ```
 
-Vantagem Big Query: Dashboards carregam mais rápido do que consultas diretas ao GA4, o dashboard fica mais leve!
+Vantagem BigQuery: Dashboards carregam mais rápido do que consultas diretas ao GA4, o dashboard fica mais leve!
 
 ## 6. Combinação com Dados Externos
 
 É possível adicionar outros bancos de dados no Big Query e relacionar com seus dados do GA4 através dos JOINs, então podemos relacionar tabelas do GA4 com CRM, Resultados de Campanhas, ERP entre outros bancos.
 
-## 7. Uso de Machine Learning com SQL direto no Big Query ##
+## 7. Uso de Machine Learning com SQL direto no BigQuery ##
 
 O BigQuery ML é uma funcionalidade incrível que permite criar e executar modelos de machine learning diretamente usando SQL. É possível utilizar modelos como Regressão Linear, Clustering, Random Forest, Deep Learning entre outros.
 
@@ -141,16 +141,16 @@ O BigQuery ML é uma funcionalidade incrível que permite criar e executar model
 
 ## Quando Usar a Integração Nativa? ##
 
-A conexão direta GA4-Looker Studio ainda é útil para:
+A conexão direta GA4 + Looker Studio ainda é útil para:
 
 - Dashboards simples e rápidos
 - Quando não se precisa de dados históricos profundos
 - Para usuários sem conhecimentos de SQL
 
 
-Ao final deste projeto realizei a integração com o Big Query no Looker Studio e criei a visualização dos dados atráves do Dashboard abaixo:
+Ao final deste projeto realizei a integração com o BigQuery no Looker Studio e criei a visualização dos dados atráves do Dashboard abaixo:
 
-### Dashboard Looker Studio feito com a Integração Big Query ###
+### Dashboard Looker Studio feito com a Integração BigQuery ###
 
 <iframe width="800" height="591" src="https://lookerstudio.google.com/embed/reporting/483c125f-1afd-48a4-8828-13bb487be03c/page/Hi3KF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
