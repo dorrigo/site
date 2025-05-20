@@ -69,7 +69,7 @@ Vantagem Big Query: Mais liberdade para trabalhar os dados, com a integração d
 
 ## 5. Combinação com Dados Externos
 
-- É possível adicionar outros bancos de dados no Big Query e relacionar com seus dados do GA4, então podemos relacionar tabelas do GA4 com CRM, Resultados de Campanhas, ERP entre outros bancos.
+- É possível adicionar outros bancos de dados no Big Query e relacionar com seus dados do GA4 através dos JOINs, então podemos relacionar tabelas do GA4 com CRM, Resultados de Campanhas, ERP entre outros bancos.
 
 
 
