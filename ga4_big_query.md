@@ -128,7 +128,7 @@ Vantagem Big Query: Dashboards carregam mais rápido do que consultas diretas ao
 
 O BigQuery ML é uma funcionalidade incrível que permite criar e executar modelos de machine learning diretamente usando SQL. É possível utilizar modelos como Regressão Linear, Clustering, Random Forest, Deep Learning entre outros.
 
-# Comparação Rápida: Integração Nativa GA4 vs. BigQuery
+## Comparação Rápida: Integração Nativa GA4 vs. BigQuery ##
 
 | **Recurso**               | **Integração Nativa GA4**       | **BigQuery**                     |
 |---------------------------|--------------------------------|----------------------------------|
@@ -157,7 +157,7 @@ Ao final deste projeto realizei a integração com o Big Query no Looker Studio 
 
 
 
-[Home](/.)
+[Home](./)
 
 
 
