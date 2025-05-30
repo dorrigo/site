@@ -28,9 +28,8 @@ Dashboard atualizado automaticamente via Python
   
 
 ### Aprendizados
-- **API Design:** Documentação clara é crucial para eficiência e possibilidade de desenvolver o projeto
-- **Automação:** Agendamento de scripts Python (+confiável que manual)  
-- **Data Storytelling:** Visualizações precisam ser intuitivas para gamers
+- **API:** Documentação clara é crucial para eficiência e possibilidade de desenvolver o projeto
+- **Integrações:** Foi muito bom trabalhar com diferentes ferramentas e entender a importância de cada uma no processo e em como elas se complementam, sem dúvida foi a parte mais legal do projeto  
 
 Para acessar o código utilizado no [Github](https://github.com/dorrigo/Projeto_API_OpenDota/blob/main/script_opendota2.py)
 
