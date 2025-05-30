@@ -4,13 +4,13 @@ title: "Portfólio Rodrigo Pereira"
 description: "Projetos e Cases"
 ---
 
-### [Dashboard Meta Dota 2: Integração API + Python + Power BI](./dashboard_dota2)
+### [Projeto: Dashboard Meta Dota 2: Integração API + Python + Power BI](./dashboard_dota2)
 
 > Hoje trago um projeto mais descontraído que me diverti e aprendi bastante fazendo! Minha proposta neste projeto foi utilizar integrações entre API + Python + Power BI para gerar um dashboard que retorna as informações do Meta atual de Dota 2, sim sou Doteiro a mais de 10 anos e curto demais entender o meta e como ele se transforma dia a dia!
 >
 >
 
-### [BigQuery vs GA4 Nativo: Quando a integração direta não basta para sua Análise de Dados](./ga4_big_query)
+### [Projeto: BigQuery vs GA4 Nativo: Quando a integração direta não basta para sua Análise de Dados](./ga4_big_query)
 
 > Utilizando o dataset público ga4_obfuscated_sample_ecommerce, explorei funcionalidades do BigQuery que superam as limitações da integração nativa do GA4 no Looker Studio. Veja os principais insights!
 >
