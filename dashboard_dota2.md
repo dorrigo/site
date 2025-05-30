@@ -35,3 +35,6 @@ Para acessar o código utilizado no [Github](https://github.com/dorrigo/Projeto_
 
 [Link Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjIwNDdhOWYtMWI5My00YjNjLWI3ZDUtYWEzOTcwNjFlNTU5IiwidCI6Ijc0NDY5NmNmLTYxMzYtNDYzOS04MTExLWY3NTUwN2I5ZmY2ZCJ9)
 <iframe title="dota_meta" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiYjIwNDdhOWYtMWI5My00YjNjLWI3ZDUtYWEzOTcwNjFlNTU5IiwidCI6Ijc0NDY5NmNmLTYxMzYtNDYzOS04MTExLWY3NTUwN2I5ZmY2ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+[Home](./)
