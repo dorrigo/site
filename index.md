@@ -4,6 +4,11 @@ title: "Portfólio Rodrigo Pereira"
 description: "Projetos e Cases"
 ---
 
+### [Projeto: Análise Estatística da Dream League Season 26 - Utilizando Web Scraping](./web_scraping_dota2)
+> Este projeto consiste em um web scraping da página Dota 2 ProTracker - Torneios, com o objetivo de coletar e analisar dados estatísticos dos heróis mais relevantes da última competição que ocorreu, a Dream League Season 26.
+>
+> 
+
 ### [Projeto: Dashboard Meta Dota 2: Integração API + Python + Power BI](./dashboard_dota2)
 
 > Hoje trago um projeto mais descontraído que me diverti e aprendi bastante fazendo! Minha proposta neste projeto foi utilizar integrações entre API + Python + Power BI para gerar um dashboard que retorna as informações do Meta atual de Dota 2, sim sou Doteiro a mais de 10 anos e curto demais entender o meta e como ele se transforma dia a dia!
