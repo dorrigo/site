@@ -1,4 +1,4 @@
-# Análise Estatística da Dream League Season 26
+# Análise Estatística da Dream League S26 - Utilizando Web Scraping
 
 Este projeto consiste em um web scraping da página Dota 2 ProTracker - Torneios, com o objetivo de coletar e analisar dados estatísticos dos heróis mais relevantes da última competição que ocorreu, a Dream League Season 26.
 
