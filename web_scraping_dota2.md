@@ -18,3 +18,5 @@ Python (Bibliotecas: Selenium, Pandas, Seaborn e Matplotlib)
 ### Visualização dos Dados
 
 <iframe src="https://gamma.app/embed/jma2mkyxstranyh" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Análise Dream League S26"></iframe>
+
+[Home](./)
