@@ -3,3 +3,9 @@ description: "Projetos e Cases"
 show_downloads: false
 google_analytics: G-JRLBM576BT
 theme: jekyll-theme-slate
+
+# Desativa o banner do GitHub Pages
+plugins:
+  - jekyll-feed  # Mantenha outros plugins se necessário
+github_pages:
+  no_banner: true  # Linha mágica (pode não funcionar em todos os casos)
