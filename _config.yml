@@ -4,5 +4,3 @@ show_downloads: false
 google_analytics: G-JRLBM576BT
 theme: jekyll-theme-slate
 
-github:
-  banner: false
