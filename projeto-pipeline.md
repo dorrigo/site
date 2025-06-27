@@ -66,7 +66,6 @@ Captura dos dados brutos ingestados para estruturá-los em views.
     schema='bronze'
   )
 }}
-
 SELECT
   id_bronze,
   cliente_id,
@@ -96,7 +95,6 @@ Transformações:
     schema='silver'
   )
 }}
-
 SELECT
   v.venda_id,
   v.loja_id,
@@ -126,7 +124,7 @@ Análises:
 - Resumo das Vendas (Mensal)
 ![tabela resumo vendas](/assets/images/resumo_vendas.png)
 
-# 5. Resultados Obtidos
+## 5. Resultados Obtidos
 
 ## Análise de Dados de Vendas
 
