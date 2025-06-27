@@ -175,10 +175,6 @@ Análises:
 | #11           | Alimentos   | Alto ticket médio (R$390)       |
 | #46           | Eletrônicos | Preço mais alto (R$416/un)      |
 
-#### Preços:
-- **Mais alto**: Produto #46 (R$416,67)
-- **Mais baixo**: Produto #9 (R$311,62)
-
 ---
 
 ## Recomendações Estratégicas
