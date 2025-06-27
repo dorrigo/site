@@ -214,7 +214,7 @@ Como meu primeiro projeto utilizando **DBT (Data Build Tool)**, destaco:
   ```bash
   dbt docs generate
   dbt docs serve
-
+  ```
 
 
 
