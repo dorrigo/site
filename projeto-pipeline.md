@@ -26,3 +26,25 @@ pipeline_vendas/
 │ └── gold/ # Análises prontas
 └── documentation/ # Esquemas e metadados
 ```
+## 4. Principais Etapas
+
+### Etapa 1: Ingestão dos dados (Python)
+
+Geração de dados sintéticos com Faker:
+Dados gerados: 100 clientes, 50 produtos, 20 lojas, 1.000 vendas.
+
+- Exemplo com um dos códigos de ingestão dos dados:
+```python
+# --- Ingestão de CLIENTES ---
+for i in range(1, 101):  # 100 clientes
+    cursor.execute(
+        """
+        INSERT INTO clientes_bronze (cliente_id, nome, cidade, segmento)
+        VALUES (%s, %s, %s, %s)
+        """,
+        (i,  # ID sequencial para evitar duplicatas
+         fake.name(),
+         fake.city(),
+         random.choice(["Varejo", "Atacado", "Online"]))
+    )
+```
