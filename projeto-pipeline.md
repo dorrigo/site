@@ -167,12 +167,15 @@ Análises:
 
 ## Produtos Mais Vendidos
 
-### Top Performers:
-| Produto   | Categoria   | Destaque                          |
-|-----------|-------------|-----------------------------------|
-| #38       | Cosméticos  | Maior receita (R$31.357,68)       |
-| #43       | Alimentos   | Mais vendido (29 vezes)           |
-| #9 e #46  | Eletrônicos | 2 produtos no top 5               |
+### Top 5 Produtos - Principais Destaques
+
+| Produto       | Categoria   | Destaque                        |
+|---------------|-------------|---------------------------------|
+| #38           | Cosméticos  | Maior receita (R$31,3 mil)      |
+| #43           | Alimentos   | Mais vendido (29 unidades)      |
+| #9            | Eletrônicos | 2º em receita (R$29,2 mil)      |
+| #11           | Alimentos   | Alto ticket médio (R$390)       |
+| #46           | Eletrônicos | Preço mais alto (R$416/un)      |
 
 #### Preços:
 - **Mais alto**: Produto #46 (R$416,67)
