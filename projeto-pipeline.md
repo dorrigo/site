@@ -58,7 +58,7 @@ Função:
 
 Captura dos dados brutos ingestados para estruturá-los em views.
 
-```sql
+```python
 {{
   config(
     materialized='view',
@@ -66,6 +66,7 @@ Captura dos dados brutos ingestados para estruturá-los em views.
     schema='bronze'
   )
 }}
+
 SELECT
   id_bronze,
   cliente_id,
@@ -87,7 +88,7 @@ Transformações:
 
 - Cálculo de métricas básicas
 
-```sql
+```python
 {{
   config(
     materialized='table',
