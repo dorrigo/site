@@ -25,7 +25,7 @@ pipeline_vendas/
 ├── models/
 │ ├── bronze/ # Dados brutos
 │ ├── silver/ # Dados limpos
-│ └── gold/ # Análises prontas
+│ └── gold/ # Analises prontas
 └── documentation/ # Esquemas e metadados
 ```
 ## 4. Principais Etapas
@@ -59,13 +59,11 @@ Função:
 Captura dos dados brutos ingestados para estruturá-los em views.
 
 ```
-    {{
-    config(
+config(
     materialized='view',
     alias='stg_clientes',
     schema='bronze'
   )
-}}
 
 SELECT
   id_bronze,
@@ -74,7 +72,7 @@ SELECT
   cidade,
   segmento,
   data_carga
-FROM {{ source('raw', 'clientes_bronze') }}
+FROM source('raw', 'clientes_bronze') 
 ```
 
 ###### View Clientes_bronze - Camada Bronze
@@ -90,13 +88,12 @@ Transformações:
 - Cálculo de métricas básicas
 
 ```
-    {{
-    config(
+config(
     materialized='table',
     alias='fato_vendas',
     schema='silver'
   )
-}}
+
 SELECT
   v.venda_id,
   v.loja_id,
@@ -106,7 +103,7 @@ SELECT
   v.data_venda,
   v.total,
   v.total / NULLIF(v.quantidade, 0) AS preco_unitario
-FROM {{ ref('stg_vendas') }} v
+FROM  ref('stg_vendas')  v
 WHERE v.venda_id IS NOT NULL
 ```
 ###### Tabela Fato_vendas - Camada Silver
