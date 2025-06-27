@@ -9,6 +9,8 @@ Dados de vendas desorganizados em múltiplas fontes, sem padronização ou quali
 ### Objetivo
 Construir um pipeline completo que transforme dados brutos em insights acionáveis, seguindo as melhores práticas de engenharia de dados.
 
+---
+
 ## 2. Ferramentas Utilizadas
 
 | Camada       | Ferramentas               | Função Principal                     |
@@ -16,6 +18,8 @@ Construir um pipeline completo que transforme dados brutos em insights acionáve
 | Ingestão     | Python (Faker, Psycopg2)  | Gerar e carregar dados sintéticos     |
 | Armazenamento| PostgreSQL                | Banco de dados relacional             |
 | Transformação| dbt (Data Build Tool)     | Modelagem e transformação de dados    |
+
+---
 
 ## 3. Arquitetura do Projeto
 
@@ -28,6 +32,8 @@ pipeline_vendas/
 │ └── gold/ # Analises prontas
 └── documentation/ # Esquemas e metadados
 ```
+---
+
 ## 4. Principais Etapas
 
 ### 4.1: Ingestão dos dados (Python)
@@ -122,6 +128,8 @@ Análises:
   
 - Resumo das Vendas (Mensal)
 ![tabela resumo vendas](/assets/images/resumo_vendas.png)
+
+---
 
 ## 5. Resultados Obtidos
 
