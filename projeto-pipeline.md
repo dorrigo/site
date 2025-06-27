@@ -19,7 +19,7 @@ Construir um pipeline completo que transforme dados brutos em insights acionáve
 
 ## 3. Arquitetura do Projeto
 
-```
+```python
 pipeline_vendas/
 ├── ingestao/ # Scripts Python
 ├── models/
@@ -36,7 +36,7 @@ Geração de dados sintéticos com Faker:
 
 - Dados gerados: 100 clientes, 50 produtos, 20 lojas, 1.000 vendas.
 
-```
+```sql
 # --- Ingestão de CLIENTES ---
 for i in range(1, 101):  # 100 clientes
     cursor.execute(
@@ -58,7 +58,7 @@ Função:
 
 Captura dos dados brutos ingestados para estruturá-los em views.
 
-```
+```sql
 config(
     materialized='view',
     alias='stg_clientes',
