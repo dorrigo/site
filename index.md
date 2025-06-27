@@ -4,6 +4,11 @@ title: "Portfólio Rodrigo Pereira"
 description: "Projetos e Cases"
 ---
 
+### [Projeto de Pipeline de Dados: Da Ingestão à Análise de Vendas](./pipeline_vendas.md)
+> Meu primeiro projeto utilizando Data Build Tool (DBT), aprendi na prática sobre modelagem de dados, pipelines ETL/ELT e a poderosa documentação automatizada que o DBT oferece.
+>
+>
+
 ### [Projeto: Análise Estatística da Dream League Season 26 - Utilizando Web Scraping](./web_scraping_dota2)
 > Este projeto consiste em um web scraping da página Dota 2 ProTracker - Torneios, com o objetivo de coletar e analisar dados estatísticos dos heróis mais relevantes da última competição que ocorreu, a Dream League Season 26.
 >
