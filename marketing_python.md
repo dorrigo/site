@@ -1,6 +1,24 @@
-# Projeto: Tratamento e Análise de Dados de Marketing com Python 
+# Projeto: Tratamento e Análise de Dados de Marketing com Python
 
-## Análise de Engajamento por Categoria
+## Problema/Objetivo
+Identificar padrões de engajamento e crescimento de seguidores por categoria de conteúdo e horário de publicação para otimizar a estratégia de postagens.
+
+## Ferramentas Utilizadas
+Python:
+- Pandas
+- Numpy
+- Matplotlib/Seaborn
+
+## Principais Etapas
+1. Extração da Base de Dados
+
+2. Tratamento dos Dados
+
+3. Análise dos Dados
+
+## Resultados Obtidos
+
+### Análise de Engajamento por Categoria
 
 ![Categoria x Taxa](/assets/images/categoria_taxa.png)
 
@@ -13,7 +31,7 @@ Para potencializar o desempenho da categoria de Tecnologia, recomenda-se a **cri
 
 ---
 
-## Análise de Ganho de Seguidores por Tipo de Post
+### Análise de Ganho de Seguidores por Tipo de Post
 
 ![Seguidor x Post](/assets/images/seguidor_post.png)
 
@@ -21,7 +39,7 @@ O ganho de seguidores não tem diferença significativa neste dataset, porém me
 
 ---
 
-## Análise de Ganho de Seguidores por Categoria de Post
+### Análise de Ganho de Seguidores por Categoria de Post
 
 ![Seguidor x Categoria](/assets/images/seguidor_categoria.png)
 
@@ -68,7 +86,7 @@ Podemos identificar no **Histograma das postagens** uma menor concentração de 
 
 ---
 
-## Análise da Distribuição de Postagens com Spam
+### Análise da Distribuição de Postagens com Spam
 
 ![Distribuicao Spam](/assets/images/spam.png)
 
@@ -79,14 +97,14 @@ Podemos identificar no **Histograma das postagens** uma menor concentração de 
 
 Essa prática:  
 - Arruína a experiência dos verdadeiros usuários  
-- Faz com que as ferramentas diminuam a entrega dos conteúdos orgânicos afetados  
+- Faz com que as ferramentas diminuam a entrega dos conteúdos orgânicos afetados o que afeta a taxa de engajamento e ganho de seguidores 
 
 **Solução:**  
 Existem configurações que auxiliam na diminuição e podem melhorar a qualidade e segurança da conta.
 
 ---
 
-## Análise das Métricas de Engajamento
+### Análise das Métricas de Engajamento
 
 ![KPI rede social](/assets/images/engagement_total.png)
 
@@ -98,5 +116,9 @@ O conteúdo de **Tecnologia** domina em Likes com valor **10% acima** da média 
 Os compartilhamentos e comentários apresentam valores bem próximos da média geral, tendo maior relevância em posts de **Comida** (quem não gosta de compartilhar ou marcar um amigo em uma receita, não é?).
 
 Essa visualização ajuda a entender melhor o desempenho de cada categoria de post e pensar em estratégias que melhorem os indicadores, baseando-se também no que funciona naquelas categorias que apresentam desempenho acima da média.
+
+## Aprendizados
+
+O Python é uma ferramenta completa para analisar dados é possível fazer todo o processo de ETL/ELT tudo na mesma ferramenta, as bibliotecas são bem robustas e se faz possível entregar um trabalho completo, quanto mais estudo e desenvolvo análise de dados com python mais me impressiono com ela e tem se tornado minha favorita!
 
 [Home](./)
