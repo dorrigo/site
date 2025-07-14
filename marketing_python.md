@@ -59,3 +59,5 @@ O conteúdo de **Tecnologia** domina em Likes com valor **10% acima** da média 
 Os compartilhamentos e comentários apresentam valores bem próximos da média geral, tendo maior relevância em posts de **Comida** (quem não gosta de compartilhar ou marcar um amigo em uma receita, não é?).
 
 Essa visualização ajuda a entender melhor o desempenho de cada categoria de post e pensar em estratégias que melhorem os indicadores, baseando-se também no que funciona naquelas categorias que apresentam desempenho acima da média.
+
+[./home]
