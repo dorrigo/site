@@ -60,4 +60,4 @@ Os compartilhamentos e comentários apresentam valores bem próximos da média g
 
 Essa visualização ajuda a entender melhor o desempenho de cada categoria de post e pensar em estratégias que melhorem os indicadores, baseando-se também no que funciona naquelas categorias que apresentam desempenho acima da média.
 
-[./home]
+[Home](./)
