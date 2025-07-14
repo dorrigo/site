@@ -4,6 +4,11 @@ title: "Portfólio Rodrigo Pereira"
 description: "Projetos e Cases"
 ---
 
+### [Projeto: Tratamento e Análise de Dados de Marketing com Python](./marketing_python.md)
+> Neste projeto utilizei Python em todo o processo de extração, tratamento e análise dos dados de marketing voltados para Redes Sociais.
+>
+>
+
 ### [Projeto: Pipeline de Dados - Da Ingestão à Análise de Vendas](./projeto-pipeline.md)
 > Meu primeiro projeto utilizando Data Build Tool (DBT), aprendi na prática sobre modelagem de dados, pipelines ETL/ELT e a facilidade da documentação automatizada que o DBT oferece.
 >
