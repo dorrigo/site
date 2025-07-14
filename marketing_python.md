@@ -2,6 +2,8 @@
 
 ## Análise de Engajamento por Categoria
 
+![Categoria x Taxa](/assets/images/categoria_taxa.png)
+
 A análise dos dados revela que a categoria **Esportes** apresenta o **melhor desempenho** em taxa de engajamento, seguida de perto pela categoria **Fashion**, que mostra um resultado bem próximo. Em contraste, as categorias **Tecnologia** e **Comida** registram os **indicadores mais baixos** de engajamento.
 
 **Insight estratégico:**  
@@ -13,11 +15,15 @@ Para potencializar o desempenho da categoria de Tecnologia, recomenda-se a **cri
 
 ## Análise de Ganho de Seguidores por Tipo de Post
 
+![Seguidor x Post](/assets/images/seguidor_post.png)
+
 O ganho de seguidores não tem diferença significativa neste dataset, porém mesmo com essa pequena diferença o conteúdo **áudio-visual** ainda tem vantagem quanto ao conteúdo **textual**.
 
 ---
 
 ## Análise de Ganho de Seguidores por Categoria de Post
+
+![Seguidor x Categoria](/assets/images/seguidor_categoria.png)
 
 Os dados revelam um cenário intrigante: enquanto a categoria **Esportes** lidera em taxa de engajamento, mostra-se **menos eficaz** na atração de novos seguidores, ocupando a última posição neste aspecto. Em contrapartida, o conteúdo de **Fashion**, embora apresente menor engajamento, destaca-se como o **mais eficiente** para conquistar novos seguidores.
 
@@ -33,7 +39,38 @@ Para **crescimento de base** (aquisição de seguidores):
 
 ---
 
+### Análise da Efetividade dos Posts ao Longo do Dia
+
+![Histograma Horas](/assets/images/histplot.png)
+
+![Heatmap taxa](/assets/images/heatmap_engagement.png)
+
+Podemos identificar no **Histograma das postagens** uma menor concentração de posts nos horários das **6h e 11h da manhã**, o que confirma a baixa de engajamento no mapa de calor (com temas abaixo da média de 2.5 no intervalo). Para contornar esse problema, o ideal seria:
+
+- Trabalhar mais os conteúdos de tema **Fashion** e **Comida** que apresentam maior taxa de engajamento nestes horários com menos volume de posts
+- Propor posts com **temas cruzados** entre eles
+
+**Período Vespertino (a partir das 14h):**
+- Maior volume de postagens do dia
+- Todos os temas apresentam taxa de engajamento próxima
+- Oportunidade de manter diversificação de conteúdos
+
+**Período Noturno/Madrugada:**
+- **Destaque de engajamento**:
+  - Conteúdo de **Esportes** (taxa acima de 3, superior à média)
+  - Posts de **Comida** (para o público noturno)
+  
+**Insight Final:**
+É interessante explorar esses dados para entender:
+- Padrões de consumo por horário
+- Preferências do público em diferentes turnos
+- Criar pautas de conteúdo baseadas em evidências
+
+---
+
 ## Análise da Distribuição de Postagens com Spam
+
+![Distribuicao Spam](/assets/images/spam.png)
 
 É preocupante para uma rede social que **mais da metade** dos posts apresentem **Spam Flag**. É importante monitorar:  
 - Bots  
@@ -50,6 +87,8 @@ Existem configurações que auxiliam na diminuição e podem melhorar a qualidad
 ---
 
 ## Análise das Métricas de Engajamento
+
+![KPI rede social](/assets/images/engagement_total.png)
 
 - **Média de Likes**: 116.754,25  
 - **Média de Compartilhamentos**: 11.536,25  
