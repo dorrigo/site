@@ -119,6 +119,6 @@ Essa visualização ajuda a entender melhor o desempenho de cada categoria de po
 
 ## Aprendizados
 
-O Python é uma ferramenta completa para analisar dados é possível fazer todo o processo de ETL/ELT tudo na mesma ferramenta, as bibliotecas são bem robustas e se faz possível entregar um trabalho completo, quanto mais estudo e desenvolvo análise de dados com python mais me impressiono com ela e tem se tornado minha favorita!
+O Python é uma ferramenta completa para analisar dados é possível fazer todo o processo de ETL/ELT tudo na mesma ferramenta, as bibliotecas são bem robustas e se faz possível entregar um trabalho completo, quanto mais estudo e desenvolvo análise de dados com python mais me impressiono com ela, com certeza é a minha favorita!
 
 [Home](./)
