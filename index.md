@@ -5,7 +5,7 @@ description: "Projetos e Cases"
 ---
 
 ### [Projeto: Pipeline de Dados - Da Ingestão à Análise de Vendas](./projeto-pipeline.md)
-> Meu primeiro projeto utilizando Data Build Tool (DBT), aprendi na prática sobre modelagem de dados, pipelines ETL/ELT e a poderosa documentação automatizada que o DBT oferece.
+> Meu primeiro projeto utilizando Data Build Tool (DBT), aprendi na prática sobre modelagem de dados, pipelines ETL/ELT e a facilidade da documentação automatizada que o DBT oferece.
 >
 >
 
