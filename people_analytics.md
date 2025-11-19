@@ -85,11 +85,15 @@ FROM funcionarios
 
 **Resultados:**
 
+<div class="table-wrapper" markdown="1">
+    
 | Total Funcionários | Funcionários Ativos | Funcionários Inativos | % Ativos | % Inativos |
 |-------------------|--------------------|-----------------------|----------|------------|
 | 446 | 354 | 92 | 79.37% | 20.63% |
 | 63 | 51 | 12 | 80.95% | 19.05% |
 | 961 | 828 | 133 | 86.16% | 13.84% |
+
+</div>
 
 **Insights:**
 - Taxa média de turnover entre 13-21% dependendo do departamento
@@ -109,11 +113,15 @@ ORDER BY pct_funcionario_inativo DESC;
 
 **Resultados:**
 
+<div class="table-wrapper" markdown="1">
+
 | Departamento | Funcionários Ativos | Funcionários Inativos | % Ativos | % Inativos |
 |--------------|--------------------|-----------------------|----------|------------|
 | Sales | 354 | 92 | 79.37% | 20.63% |
 | Human Resources | 51 | 12 | 80.95% | 19.05% |
 | Technology | 828 | 133 | 86.16% | 13.84% |
+
+</div>
 
 **Insights:**
 - **Sales** tem a maior taxa de turnover (20.63%)
@@ -145,11 +153,15 @@ ORDER BY indice_satisfacao_geral DESC
 
 **Resultados:**
 
+<div class="table-wrapper" markdown="1">
+
 | Departamento | Satisfação Ambiente | Satisfação Trabalho | Satisfação Relacionamento | Índice Geral |
 |--------------|---------------------|---------------------|---------------------------|--------------|
 | Sales | 3.90 | 3.40 | 3.41 | 3.57 |
 | Technology | 3.86 | 3.42 | 3.43 | 3.57 |
 | Human Resources | 3.87 | 3.45 | 3.30 | 3.54 |
+
+</div>
 
 **Insights:**
 - Satisfação moderada em todos os departamentos (3.54-3.57 em escala de 5)
@@ -178,11 +190,15 @@ ORDER BY funcionario_risco_de_saida DESC
 
 **Resultados:**
 
+<div class="table-wrapper" markdown="1">
+
 | Departamento | Funcionários em Risco | Ranking |
 |--------------|----------------------|---------|
 | Technology | 32 | 1 |
 | Sales | 18 | 2 |
 | Human Resources | 1 | 3 |
+
+</div>
 
 **Insights:**
 - **51 funcionários ativos** em risco crítico de saída
@@ -205,6 +221,8 @@ ORDER BY 1,2
 
 **Resultados:**
 
+<div class="table-wrapper" markdown="1">
+
 | Overtime | Departamento | Work-Life Balance Médio | Total Funcionários |
 |----------|--------------|------------------------|-------------------|
 | No | Human Resources | 3.41 | 211 |
@@ -213,6 +231,8 @@ ORDER BY 1,2
 | Yes | Human Resources | 3.32 | 92 |
 | Yes | Sales | 3.40 | 742 |
 | Yes | Technology | 3.41 | 1,403 |
+
+</div>
 
 **Insights:**
 - 2,237 funcionários (43%) fazem horas extras regularmente
@@ -251,12 +271,16 @@ ORDER BY gap_percentual;
 
 **Resultados:**
 
+<div class="table-wrapper" markdown="1">
+
 | Gênero | Total Funcionários | Salário Médio Anual | Salário Mínimo | Salário Máximo | Gap Percentual |
 |--------|-------------------|---------------------|----------------|----------------|----------------|
 | Non-Binary | 105 | $114,827.08 | $21,649 | $542,695 | -10.35% |
 | Male | 537 | $116,770.36 | $20,418 | $547,204 | -8.83% |
 | Female | 571 | $121,236.06 | $20,802 | $546,549 | -5.35% |
 | Prefer Not To Say | 20 | $128,083.35 | $21,202 | $365,504 | 0% |
+
+</div>
 
 **Insights:**
 - **Equidade positiva**: mulheres ganham 3.8% a mais que homens
@@ -279,11 +303,15 @@ ORDER BY diferenca_media DESC
 
 **Resultados:**
 
+<div class="table-wrapper" markdown="1">
+
 | Departamento | Func. com Overtime | Salário Médio c/ Overtime | Salário Médio s/ Overtime | Diferença |
 |--------------|-------------------|---------------------------|---------------------------|-----------|
 | Human Resources | 63 | $129,414.71 | $116,108.15 | $13,306.55 |
 | Sales | 446 | $122,709.54 | $117,671.80 | $5,037.74 |
 | Technology | 961 | $110,382.39 | $109,369.49 | $1,012.91 |
+
+</div>
 
 **Insights:**
 - HR: +$13k para quem faz overtime (+11.5%)
@@ -310,11 +338,15 @@ ORDER BY taxa_media_uso_treino DESC
 
 **Resultados:**
 
+<div class="table-wrapper" markdown="1">
+
 | Departamento | Taxa Média de Utilização (%) |
 |--------------|------------------------------|
 | Technology | 61.69% |
 | Sales | 61.66% |
 | Human Resources | 60.89% |
+
+</div>
 
 **Insights:**
 - Aproximadamente 60% das oportunidades de treinamento são aproveitadas
@@ -337,11 +369,15 @@ GROUP BY Department
 
 **Resultados:**
 
+<div class="table-wrapper" markdown="1">
+
 | Departamento | Alta Estagnação (≥5 anos) | Média Estagnação (3-4 anos) | Baixa Estagnação (<3 anos) | Média Anos s/ Promoção |
 |--------------|---------------------------|----------------------------|---------------------------|------------------------|
 | Sales | 125 | 86 | 143 | 3.71 |
 | Human Resources | 20 | 10 | 21 | 3.75 |
 | Technology | 325 | 186 | 317 | 3.88 |
+
+</div>
 
 **Insights:**
 - **470 funcionários** (38%) estão há 5+ anos sem promoção
@@ -371,6 +407,8 @@ LIMIT 10;
 
 **Resultados (Top 10):**
 
+<div class="table-wrapper" markdown="1">
+
 | ID Funcionário | Departamento | Autoavaliação | Avaliação Gestor | Diferença |
 |---------------|--------------|---------------|------------------|-----------|
 | 5634-9D10 | Technology | 3 | 4 | +1 |
@@ -383,6 +421,8 @@ LIMIT 10;
 | 9C57-828C | Technology | 3 | 3 | 0 |
 | 79F7-78EC | Sales | 4 | 4 | 0 |
 | 88B8-EB84 | Technology | 5 | 5 | 0 |
+
+</div>
 
 **Insights:**
 - Maioria dos funcionários tem boa calibração (diferença = 0)
