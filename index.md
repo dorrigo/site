@@ -4,6 +4,11 @@ title: "Portfólio Rodrigo Pereira"
 description: "Projetos e Cases"
 ---
 
+### [Projeto: People Analytics no Databricks](./people_analytics.md)
+> Este projeto analisa dados de recursos humanos para identificar padrões de turnover, satisfação dos colaboradores e oportunidades de melhoria na gestão de pessoas. Utilizando SQL no Databricks.
+>
+>
+
 ### [Projeto: Tratamento e Análise de Dados de Marketing com Python](./marketing_python.md)
 > Neste projeto utilizei Python em todo o processo de extração, tratamento e análise dos dados de marketing voltados para Redes Sociais.
 >
