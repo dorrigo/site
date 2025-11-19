@@ -1,0 +1,36 @@
+/* ============================================
+   CSS para Tabelas Responsivas - Mobile First
+   Adicione este CSS ao seu projeto
+   ============================================ */
+
+/* Garante que a página não ultrapasse a largura da tela */
+body {
+    overflow-x: hidden;
+}
+
+/* Solução 1: Scroll horizontal apenas nas tabelas (mais simples) */
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Scroll suave no iOS */
+    margin: 20px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 600px; /* Largura mínima da tabela */
+}
+
+/* Estilização básica das tabelas */
+table th,
+table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
