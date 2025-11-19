@@ -67,7 +67,6 @@ FROM funcionarios
 
 **Insights:**
 - Taxa média de turnover entre 13-21% dependendo do departamento
-- Aproximadamente 1 em cada 5-7 funcionários deixou a empresa
 
 #### 1.2 Turnover por Departamento
 
@@ -93,7 +92,7 @@ ORDER BY pct_funcionario_inativo DESC;
 **Insights:**
 - **Sales** tem a maior taxa de turnover (20.63%)
 - **Technology** apresenta a melhor retenção (86.16%)
-- Sales é o departamento prioritário para ações de retenção
+- Sales e Technology é o departamento prioritário para ações de retenção
 
 ---
 
@@ -366,9 +365,7 @@ LIMIT 10;
 
 ---
 
-## Aprendizados
-
-### Insights Principais
+## Insights Principais
 
 **1. Sales é o departamento crítico**
 - Maior taxa de turnover (20.63%)
@@ -402,8 +399,6 @@ LIMIT 10;
 - Gestores e funcionários têm expectativas calibradas
 - Poucas discrepâncias nas avaliações
 - **Aprendizado**: Processo de avaliação está funcionando bem
-
----
 
 [Home](./)
 
