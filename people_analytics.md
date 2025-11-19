@@ -26,7 +26,6 @@ A empresa enfrenta desafios relacionados à rotatividade de funcionários e nece
   - Window Functions (DENSE_RANK, AVG OVER)
   - Agregações e GROUP BY
   - JOINs entre tabelas relacionadas
-  - Análises de correlação e segmentação
 
 ---
 
