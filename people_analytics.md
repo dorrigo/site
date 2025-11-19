@@ -159,7 +159,7 @@ ORDER BY funcionario_risco_de_saida DESC
 | Sales | 18 | 2 |
 | Human Resources | 1 | 3 |
 
-**📌 Insights:**
+**Insights:**
 - **51 funcionários ativos** em risco crítico de saída
 - Technology tem 32 funcionários nesta situação (ação urgente necessária)
 - Critério: baixa satisfação + baixa performance + desequilíbrio de vida
