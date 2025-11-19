@@ -1,3 +1,29 @@
+---
+layout: default
+title: "People Analytics"
+custom_css: responsive-tables
+---
+
+<style>
+.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 20px 0;
+}
+
+table {
+    min-width: 600px;
+    border-collapse: collapse;
+}
+
+@media screen and (max-width: 768px) {
+    table {
+        font-size: 14px;
+    }
+}
+</style>
+
 # Projeto: People Analytics no Databricks
 
 ---
